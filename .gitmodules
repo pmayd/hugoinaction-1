@@ -1,3 +1,6 @@
 [submodule "themes/eclectic"]
 	path = themes/eclectic
 	url = https://github.com/atishay/eclectic-hugo-theme.git
+[submodule "themes/universal"]
+	path = themes/universal
+	url = https://github.com/atishay/hugo-universal-theme.git
