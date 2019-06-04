@@ -1,4 +1,5 @@
-baseURL: http://example.org/                  # URL of the website
+baseURL: https://ch02-5.hugoinaction.com/     # URL of the website
+publishDir: docs                              # Output folder
 languageCode: en-us                           # Locale
 title: Acme Industries                        # Name of the website
 theme: universal                               # Name of the theme
