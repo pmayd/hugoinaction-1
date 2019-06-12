@@ -1,5 +1,5 @@
 Privacy Policy
---------------
+==============
 
 Effective date: January 1, 2020
 
