@@ -31,7 +31,7 @@ params:                                       # Theme specific parameters
   copyright: "Copyright &copy; 2020 Acme Corporation. All Rights Reserved."
   footer:
     - title: About
-      content: Acme Corporation are the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+      content: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
     - title: Recent Blog Posts
       recents: blog
       recentCount: 7
