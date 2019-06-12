@@ -1,13 +1,13 @@
 baseURL: https://hugoinaction.com/            # URL of the website
 publishDir: docs                              # Output folder
 languageCode: en-us                           # Locale
-title: Acme Industries                        # Name of the website
+title: Acme Corporation                       # Name of the website
 theme: eclectic                               # Name of the theme
 author:                                       # Information about the website author
   facebook: "https://facebook.com/example"
   twitter: "https://twitter.com/example"
   email: "contact@example.org"
-  name: "Acme Industries"
+  name: "Acme Corporation"
   location: New York
   phone: (999) 999-9999
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
@@ -28,10 +28,10 @@ menu:                                         # Menu placement
       weight: 3
 params:                                       # Theme specific parameters
   color: "#71B180"
-  copyright: "Copyright &copy; 2020 Acme Industries. All Rights Reserved."
+  copyright: "Copyright &copy; 2020 Acme Corporation. All Rights Reserved."
   footer:
     - title: About
-      content: Acme Industries are the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+      content: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
     - title: Recent Blog Posts
       recents: blog
       recentCount: 7
@@ -40,7 +40,7 @@ params:                                       # Theme specific parameters
   style: green
   logo: image/logo.png
   logo_small: image/logo.png
-  about_us: Acme Industries are the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
-  copyright: "Copyright &#xA9; 2020 Acme Industries. All Rights Reserved."
+  about_us: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+  copyright: "Copyright &#xA9; 2020 Acme Corporation. All Rights Reserved."
   recent_posts:
     enable: true
