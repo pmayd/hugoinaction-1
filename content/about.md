@@ -1,12 +1,55 @@
 About Us
+==========
+
+Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. 
+
+> We shape the world. You live in it.
+
+We provide :smile: to hundreds of happy customers.
+
+Manufacturing
+--------------
+
+At Acme Corporation, we take pride in what we create. Our manufacturing process goes through **3 different** stages of fine workmanship to give you the best possible shapes.
+
+<img style="float:right; margin: 20px;" src="/image/draw.jpg">
+
+1. **Drawing** Our shapes are drawn with precision to the 1/100 of a millimeter.
+   * We use advanced vector drawing tools to create our catalog.
+   * The quality checking happens hundreds of times for each shape we create.
+     * We have high quality bots that inspect our output.
+     * There is also a manual team inspecting each product.
+     * All our bugs are turned into automated checks that bots perform in every future shape.
+   * We round all corners and clean up properly.
+2. **Rasterizing** Ous raster engine is world class and keeps the vector right until it gets to our high quality laser printers.
+3. **Delivery** Our output is hosted on the fastest of CDN with a 99.99% uptime and the bandwidth that can take care of all your load.
+
+Products
 ---------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Faucibus scelerisque eleifend donec pretium. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non. Rutrum quisque non tellus orci. Tincidunt dui ut ornare lectus sit amet est placerat in. Erat velit scelerisque in dictum non consectetur a erat nam. Sed faucibus turpis in eu. Nullam vehicula ipsum a arcu cursus vitae congue mauris. Ut venenatis tellus in metus vulputate eu scelerisque felis.
+We make over ***200 shapes***, the most popular of these include:
 
-Nisl pretium fusce id velit ut tortor pretium viverra. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Luctus venenatis lectus magna fringilla urna porttitor. Imperdiet sed euismod nisi porta. Enim diam vulputate ut pharetra sit. Consectetur libero id faucibus nisl tincidunt eget nullam non. Sagittis eu volutpat odio facilisis. Faucibus vitae aliquet nec ullamcorper. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Erat pellentesque adipiscing commodo elit. Integer malesuada nunc vel risus commodo viverra maecenas. Tortor at risus viverra adipiscing at.
+Shape | Design | Description | Links
+---   |  ---   |   ---       | ---
+Line | -- | Two pointy ends and a straight stretch of ink | [Line on wikipedia](https://en.wikipedia.org/wiki/Line_(geometry))
+Circle  | &#8413; | A full round with no corners | [Circle on wikipedia] 
+Triangle  | &#9651; | Three lines with three corners |  [Triangle on wikipedia](https://en.wikipedia.org/wiki/Triangle)
 
-Sit amet mauris commodo quis imperdiet. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Commodo elit at imperdiet dui accumsan sit amet. Elementum sagittis vitae et leo duis ut diam. Iaculis eu non diam phasellus vestibulum. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Non diam phasellus vestibulum lorem sed. Neque ornare aenean euismod elementum nisi quis eleifend. Tellus in metus vulputate eu. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Elementum eu facilisis sed odio. Ultrices sagittis orci a scelerisque purus semper eget duis. Amet cursus sit amet dictum. Sed euismod nisi porta lorem mollis aliquam. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Volutpat commodo sed egestas egestas fringilla. Curabitur vitae nunc sed velit dignissim sodales ut eu.
 
-Purus faucibus ornare suspendisse sed nisi. Eleifend mi in nulla posuere. Quis risus sed vulputate odio ut enim blandit volutpat. At tempor commodo ullamcorper a lacus. Ut consequat semper viverra nam libero. In eu mi bibendum neque egestas. Donec pretium vulputate sapien nec sagittis. Faucibus vitae aliquet nec ullamcorper sit. Eu nisl nunc mi ipsum faucibus vitae aliquet. Ultrices in iaculis nunc sed augue. At auctor urna nunc id cursus metus aliquam eleifend.
+[Circle on wikipedia]: https://en.wikipedia.org/wiki/Circle
 
-Et magnis dis parturient montes nascetur ridiculus. Ac turpis egestas integer eget. Eget lorem dolor sed viverra ipsum nunc aliquet. Dictum sit amet justo donec enim diam vulputate. Nulla facilisi morbi tempus iaculis. Et ultrices neque ornare aenean euismod elementum. Ultricies integer quis auctor elit sed. Quam viverra orci sagittis eu. Tortor pretium viverra suspendisse potenti nullam ac. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.
+Team
+-----
+
+Alex
+: Hippy Web Developer
+: Technofile
+
+Bob
+: Classic SysAdmin
+: Conservative
+
+Gabby
+: Cool Content Master
+: Cautious
+
