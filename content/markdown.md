@@ -144,3 +144,36 @@ var x= 10;
 x++;
 console.log(x);
 ```
+
+## Direct Emojis
+Smile please :smile:
+
+I :heart: Hugo
+
+Wink :wink:
+
+
+## Fractions
+
+1/2
+
+100/999
+
+Not a Number/5
+
+A link to [Fractions](#fractions)
+
+
+## Definition List
+
+Alex
+: Hippy Web Developer
+: Technofile
+
+Bob
+: Classic SysAdmin
+: Conservative
+
+Gabby
+: Cool Content Master
+: Cautious
