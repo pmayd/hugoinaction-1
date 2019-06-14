@@ -44,3 +44,9 @@ params:                                       # Theme specific parameters
   copyright: "Copyright &#xA9; 2020 Acme Corporation. All Rights Reserved."
   recent_posts:
     enable: true
+pygmentsCodefences: true
+pygmentsUseClasses: false               # Use CSS instead of inline styling
+pygmentsStyle: monokai                  # Inline style to use
+pygmentsCodefencesGuessSyntax: true     # Guess language if not provided
+pygmentsUseClassic: false               # Use pygments instead of chroma
+pygmentsOptions: "linenos=true"         # Parameters to pass to pygments

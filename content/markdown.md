@@ -38,7 +38,7 @@ Also a # tag.
      + Sublist level 2
      1. Numbered sublist
      2. Next item
-        3. Next indent level
+        1. Next indent level
 
 1. Numbered sublist
 2. Next item
@@ -111,3 +111,36 @@ Embedded HTML: x<sup>2</sup>
 
 Floating image via HTML: <img src="/image/logo.png" style="float: right; padding: 0 0 0 10px"> Follow up text after the image. This honors the floats and wraps around the image, automatically going into the next line.
 
+## Tables, Code Blocks and Task lists
+
+   Name | Job
+--------|------
+   Alex | Web Developer
+    Bob | Sys Admin
+   Gabby| Technical Writer
+
+
+### Alternate Table
+
+
+|  Name | Mantra |
+|  ---  | --- |
+| Alex  | There must be a better way. |
+| Bob   | Play it safe. |
+| Gabby | Try everything, but do what you like. |
+
+## Acme Website task list
+
+- [x] Get the home page up
+- [x] Update Privacy Policy and Terms of Use
+- [ ] Add the about page
+- [ ] Start the blog
+- [ ] Enable contact us
+
+## Code block
+
+```javascript
+var x= 10;
+x++;
+console.log(x);
+```
