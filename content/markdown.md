@@ -89,3 +89,25 @@ Content with a -- (dash) and a --- (long dash).
 Sample inline code `a++` can be specified here.
 
 ![Alt Text](/image/logo.png "Optional Tooltip")
+
+
+## HTML Escaped characters and inline HTML
+
+Copyright: &copy;
+
+Registered: &reg;
+
+Trademark: &trade;
+
+Less Than: &lt;
+
+Greater Than: &gt;
+
+Ampresand: &gt;
+
+Smiley: &#x1F604;
+
+Embedded HTML: x<sup>2</sup>
+
+Floating image via HTML: <img src="/image/logo.png" style="float: right; padding: 0 0 0 10px"> Follow up text after the image. This honors the floats and wraps around the image, automatically going into the next line.
+
