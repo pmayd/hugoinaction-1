@@ -126,5 +126,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-*   By email: contact@atishay.me
+*   By email: contact@example.org
 *   By visiting this page on our website: http://acme.hugoinaction.com//contact
