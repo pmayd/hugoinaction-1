@@ -1,4 +1,4 @@
-baseURL: https://ch03-3.hugoinaction.com/            # URL of the website
+baseURL: https://ch03-4.hugoinaction.com/            # URL of the website
 publishDir: docs                              # Output folder
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
