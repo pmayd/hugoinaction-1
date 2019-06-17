@@ -1,11 +1,11 @@
 Privacy Policy
 ==============
 
-Effective date: January 1, 2020
+**Effective date:** January 1, 2020
 
-Acme Corporation Website ("us", "we", or "our") operates the http://acme.hugoinaction.com/ website (hereinafter referred to as the "Service").
+Acme Corporation&trade; ("us", "we", or "our") operates the http://acme.hugoinaction.com/ website (hereinafter referred to as the "_Service_").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Acme Corporation Website is powered by PrivacyPolicies.com.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Acme Corporation Website is powered by [PrivacyPolicies.com](https://privacypolicies.com/free-privacy-policy-generator/).
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://acme.hugoinaction.com/
 
@@ -18,11 +18,11 @@ We collect several different types of information for various purposes to provid
 
 #### Personal Data
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to cookies and usage data.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("*Personal Data*"). Personally identifiable information may include, but is not limited to cookies and usage data.
 
 #### Usage Data
 
-We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+We may also collect information on how the Service is accessed and used ("*Usage Data*"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 #### Tracking & Cookies Data
 
@@ -32,11 +32,11 @@ Cookies are files with small amount of data which may include an anonymous uniqu
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Examples of Cookies we use:
+Examples of Cookies we use ---
 
-*   Session Cookies: We use Session Cookies to operate our Service.
-*   Preference Cookies: We use Preference Cookies to remember your preferences and various settings.
-*   Security Cookies: We use Security Cookies for security purposes.
+*   **Session Cookies**: We use Session Cookies to operate our Service.
+*   **Preference Cookies**: We use Preference Cookies to remember your preferences and various settings.
+*   **Security Cookies**: We use Security Cookies for security purposes.
 
 Use of Data
 -----------
@@ -83,7 +83,7 @@ The security of your data is important to us, but remember that no method of tra
 Service Providers
 -----------------
 
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+We may employ third party companies and individuals to facilitate our Service ("*Service Providers*"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -108,7 +108,7 @@ We have no control over and assume no responsibility for the content, privacy po
 Children's Privacy
 ------------------
 
-Our Service does not address anyone under the age of 18 ("Children").
+Our Service does not address anyone under the age of 18 ("*Children*").
 
 We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
@@ -127,4 +127,10 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
 *   By email: contact@example.org
-*   By visiting this page on our website: http://acme.hugoinaction.com//contact
+*   By visiting this page on our website: http://acme.hugoinaction.com/contact
+
+****
+  
+Ratified and agreed upon by all parties.
+
+![Acme Corporation Logo](/image/logo.png "Acme Corporation")
