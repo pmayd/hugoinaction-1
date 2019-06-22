@@ -59,6 +59,7 @@ Horizontal Lines:
 
 > Block Quote
 
+## Inline Formatting
 
 *Italics*
 
