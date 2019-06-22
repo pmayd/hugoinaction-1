@@ -1,0 +1,12 @@
+baseURL: https://hugoinaction.com/            # URL of the website
+publishDir: docs                              # Output folder
+languageCode: en-us                           # Locale
+title: Acme Corporation                       # Name of the website
+theme: eclectic                               # Name of the theme
+pygmentsCodefences: true
+pygmentsUseClasses: false               # Use CSS instead of inline styling
+pygmentsStyle: monokai                  # Inline style to use
+pygmentsCodefencesGuessSyntax: true     # Guess language if not provided
+pygmentsUseClassic: false               # Use pygments instead of chroma
+pygmentsOptions: "linenos=true"         # Parameters to pass to pygments
+enableEmoji: true
