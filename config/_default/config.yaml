@@ -10,3 +10,4 @@ pygmentsCodefencesGuessSyntax: true     # Guess language if not provided
 pygmentsUseClassic: false               # Use pygments instead of chroma
 pygmentsOptions: "linenos=true"         # Parameters to pass to pygments
 enableEmoji: true
+enableGitInfo: true
