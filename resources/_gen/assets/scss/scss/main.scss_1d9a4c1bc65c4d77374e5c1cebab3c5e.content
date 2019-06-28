@@ -2518,6 +2518,11 @@ header {
     background-image: url("http://localhost:1313/image/background.svg"); }
   .meta.content:not(:first-of-type) {
     flex: 0; }
+  .meta.content .tags {
+    float: right;
+    display: inline-block; }
+    .meta.content .tags svg {
+      vertical-align: middle; }
   .meta.content h1,
   .meta.content h2,
   .meta.content h3,

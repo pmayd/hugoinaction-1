@@ -1,3 +1,8 @@
+---
+tags: [triangle, shape, product]
+categories: [shape, design ]
+
+---
 Lorem ipsum dolor sit amet consectetur adipiscing elit magnis dictum, parturient eleifend mauris eget euismod ut gravida tristique ante, neque molestie dictumst mus magna lacus in viverra. <!--more-->Nisi cras blandit magnis dui vivamus vel a enim fames, molestie quisque ligula ante ridiculus gravida habitasse arcu. Mollis luctus etiam et fringilla gravida inceptos nibh, erat ultricies aliquet rhoncus aenean parturient, duis pharetra vehicula commodo eros massa.
 
 Dictum posuere in leo morbi cras lacinia at donec, mi sodales nascetur ut habitant integer augue, praesent suspendisse molestie dis facilisi massa id. Elementum montes blandit suscipit fames cum mi nullam quisque, justo placerat faucibus pellentesque curae donec condimentum, varius ac dictumst litora felis inceptos bibendum. Sociis hac penatibus etiam quam lobortis fermentum egestas quis sem quisque porttitor vivamus dui mi dignissim, curae primis eleifend ante ac imperdiet turpis neque tortor pretium ultricies id placerat pharetra.
