@@ -1,6 +1,5 @@
 ---
 title: About Us
-slug: /about
 date: 2010-01-01T00:00:00Z
 description: World's leading manufacturer of digital shapes. We shape the world. You live in it.
 draft: false
