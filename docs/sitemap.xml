@@ -3,88 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/about/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <loc>https://hugoinaction.com/about/</loc>
+    <lastmod>2019-06-28T07:36:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <loc>https://hugoinaction.com/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/</loc>
+    <loc>https://hugoinaction.com/blog/</loc>
+    <lastmod>2019-06-24T07:09:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/blog/building-squares/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/blog/community/</loc>
+    <lastmod>2019-06-24T07:09:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/blog/community/circle/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/blog/community/curve/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/blog/tropical-triangles/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/building-squares/</loc>
+    <loc>https://hugoinaction.com/markdown/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/community/</loc>
+    <loc>https://hugoinaction.com/news/</loc>
+    <lastmod>2019-06-27T06:22:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/news/shaper/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/news/square-license/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/privacy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/community/circle/</loc>
+    <loc>https://hugoinaction.com/terms/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/community/curve/</loc>
+    <loc>https://hugoinaction.com/categories/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/tags/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/blog/tropical-triangles/</loc>
+    <loc>https://hugoinaction.com/tags/circle/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/contact/</loc>
+    <loc>https://hugoinaction.com/categories/design/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/markdown/</loc>
+    <loc>https://hugoinaction.com/categories/general/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/news/</loc>
+    <loc>https://hugoinaction.com/tags/line/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/news/shaper/</loc>
+    <loc>https://hugoinaction.com/tags/manufacturing/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/news/square-license/</loc>
+    <loc>https://hugoinaction.com/tags/product/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/privacy/</loc>
+    <loc>https://hugoinaction.com/categories/public/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/terms/</loc>
+    <loc>https://hugoinaction.com/categories/shape/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/categories/</loc>
+    <loc>https://hugoinaction.com/tags/shape/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ch04-1.hugoinaction.com/tags/</loc>
+    <loc>https://hugoinaction.com/categories/square/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/tags/square/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/tags/style/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugoinaction.com/tags/triangle/</loc>
+    <lastmod>2019-06-28T08:27:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   

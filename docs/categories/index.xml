@@ -2,15 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Acme Corporation</title>
-    <link>https://ch04-1.hugoinaction.com/categories/</link>
+    <link>https://hugoinaction.com/categories/</link>
     <description>Recent content in Categories on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     
-	<atom:link href="https://ch04-1.hugoinaction.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugoinaction.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>design</title>
+      <link>https://hugoinaction.com/categories/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general</title>
+      <link>https://hugoinaction.com/categories/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public</title>
+      <link>https://hugoinaction.com/categories/public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shape</title>
+      <link>https://hugoinaction.com/categories/shape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>square</title>
+      <link>https://hugoinaction.com/categories/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/square/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
