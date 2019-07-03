@@ -1,11 +1,44 @@
 ---
+title: Building Squares
 tags: [square, shape, product, manufacturing]
 categories: [shape, design ]
 ---
-Lorem ipsum dolor sit amet consectetur adipiscing elit magnis dictum, parturient eleifend mauris eget euismod ut gravida tristique ante, neque molestie dictumst mus magna lacus in viverra.<!--more--> Nisi cras blandit magnis dui vivamus vel a enim fames, molestie quisque ligula ante ridiculus gravida habitasse arcu. Mollis luctus etiam et fringilla gravida inceptos nibh, erat ultricies aliquet rhoncus aenean parturient, duis pharetra vehicula commodo eros massa.
 
-Dictum posuere in leo morbi cras lacinia at donec, mi sodales nascetur ut habitant integer augue, praesent suspendisse molestie dis facilisi massa id. Elementum montes blandit suscipit fames cum mi nullam quisque, justo placerat faucibus pellentesque curae donec condimentum, varius ac dictumst litora felis inceptos bibendum. Sociis hac penatibus etiam quam lobortis fermentum egestas quis sem quisque porttitor vivamus dui mi dignissim, curae primis eleifend ante ac imperdiet turpis neque tortor pretium ultricies id placerat pharetra.
+In geometry, a square is a regular quadrilateral, which means that it has four equal sides and four equal angles (90-degree angles, or (100-gradian angles or right angles). It can also be defined as a rectangle in which two adjacent sides have equal length. A square with vertices ABCD would be denoted ◻ ABCD. <!--more-->
 
-Nisi ac nostra porta fringilla facilisis magnis mauris hac praesent mattis congue, pharetra placerat pulvinar enim rhoncus netus lectus duis lacus porttitor, curae litora dui justo ridiculus sem erat penatibus primis vehicula. Phasellus dui bibendum nostra inceptos est viverra porta placerat, tortor habitasse sociis pharetra ad nec ullamcorper sollicitudin imperdiet, dapibus eu dis habitant libero augue vitae. Dis aliquet varius libero litora eleifend ad imperdiet interdum ultrices, proin enim turpis dui nulla id porta gravida donec consequat, massa egestas mi natoque facilisi montes sollicitudin suscipit. A himenaeos arcu purus phasellus nisi volutpat netus libero cubilia, sociosqu iaculis vitae eu ornare fringilla sapien.
+## Characterizations
 
-Senectus nisi posuere purus vivamus laoreet taciti, pulvinar nec eu lobortis ante tempus, est eleifend torquent faucibus lectus ornare, dictum nulla suscipit in aliquam. Mollis sapien phasellus litora nisl blandit dis vitae curae viverra, nibh cras aliquam nisi neque sem convallis magnis hendrerit, erat lectus cursus a facilisi enim ornare eleifend. Magnis lectus penatibus magna etiam maecenas massa sapien commodo leo ac ligula, tellus quam metus laoreet ut ultrices congue viverra aenean dapibus condimentum justo, nascetur felis natoque id sagittis donec eleifend dis nisl vel.
+A convex quadrilateral is a square if and only if it is any one of the following
+
+* a rectangle with two adjacent equal sides
+* a rhombus with a right vertex angle
+* a rhombus with all angles equal
+* a parallelogram with one right vertex angle and two adjacent equal sides
+* a quadrilateral with four equal sides and four right angles
+* a quadrilateral where the diagonals are equal and are the perpendicular bisectors of each other, i.e. a rhombus with equal diagonals
+* a convex quadrilateral with successive sides a, b, c, d whose area is A = 1/2(a<sup>2</sup> + c<sup>2</sup>) =  1/2(b<sup>2</sup> + d<sup>2</sup>)
+
+## Properties
+A square is a special case of a rhombus (equal sides, opposite equal angles), a kite (two pairs of adjacent equal sides), a trapezoid (one pair of opposite sides parallel), a parallelogram (all opposite sides parallel), a quadrilateral or tetragon (four-sided polygon), and a rectangle (opposite sides equal, right-angles) and therefore has all the properties of all these shapes, namely:
+
+* The diagonals of a square bisect each other and meet at 90°
+* The diagonals of a square bisect its angles.
+* Opposite sides of a square are both parallel and equal in length.
+* All four angles of a square are equal. (Each is 360°/4 = 90°, so every angle of a square is a right angle.)
+* All four sides of a square are equal.
+* The diagonals of a square are equal.
+* The square is the n=2 case of the families of n-hypercubes and n-orthoplexes.
+* A square has Schläfli symbol. A truncated square, t, is an octagon. An alternated square, h, is a digon.
+
+## Other facts
+
+* A square can also be defined as a parallelogram with equal diagonals that bisect the angles.
+* If a figure is both a rectangle (right angles) and a rhombus (equal edge lengths), then it is a square.
+* If a circle is circumscribed around a square, the area of the circle is π / 2 (about 1.5708) times the area of the square.
+* If a circle is inscribed in the square, the area of the circle is π / 4 (about 0.7854) times the area of the square.
+* A square has a larger area than any other quadrilateral with the same perimeter.
+* A square tiling is one of three regular tilings of the plane (the others are the equilateral triangle and the regular hexagon).
+* The square is in two families of polytopes in two dimensions: hypercube and the cross-polytope.
+* The square is a highly symmetric object. There are four lines of reflectional symmetry and it has rotational symmetry of order 4 (through 90°, 180° and 270°). Its symmetry group is the dihedral group D4.
+
+Content from [wikipedia](https://en.wikipedia.org/wiki/Square)

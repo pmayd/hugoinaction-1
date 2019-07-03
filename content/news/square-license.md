@@ -1,11 +1,22 @@
 ---
+title: Square License
 tags: [shape, style, manufacturing]
 categories: [square, general ]
 ---
-Lorem ipsum dolor sit amet consectetur adipiscing elit magnis dictum, parturient eleifend mauris eget euismod ut gravida tristique ante, neque molestie dictumst mus magna lacus in viverra. Nisi cras blandit magnis dui vivamus vel a enim fames, molestie quisque ligula ante ridiculus gravida habitasse arcu. Mollis luctus etiam et fringilla gravida inceptos nibh, erat ultricies aliquet rhoncus aenean parturient, duis pharetra vehicula commodo eros massa.
+A license (American English) or licence (British English) is an official permission or permit to do, use, or own something (as well as the document of that permission or permit).
 
-Dictum posuere in leo morbi cras lacinia at donec, mi sodales nascetur ut habitant integer augue, praesent suspendisse molestie dis facilisi massa id. Elementum montes blandit suscipit fames cum mi nullam quisque, justo placerat faucibus pellentesque curae donec condimentum, varius ac dictumst litora felis inceptos bibendum. Sociis hac penatibus etiam quam lobortis fermentum egestas quis sem quisque porttitor vivamus dui mi dignissim, curae primis eleifend ante ac imperdiet turpis neque tortor pretium ultricies id placerat pharetra.
+A license can be granted by a party to another party as an element of an agreement between those parties. A shorthand definition of a license is "an authorization to use licensed material."
 
-Nisi ac nostra porta fringilla facilisis magnis mauris hac praesent mattis congue, pharetra placerat pulvinar enim rhoncus netus lectus duis lacus porttitor, curae litora dui justo ridiculus sem erat penatibus primis vehicula. Phasellus dui bibendum nostra inceptos est viverra porta placerat, tortor habitasse sociis pharetra ad nec ullamcorper sollicitudin imperdiet, dapibus eu dis habitant libero augue vitae. Dis aliquet varius libero litora eleifend ad imperdiet interdum ultrices, proin enim turpis dui nulla id porta gravida donec consequat, massa egestas mi natoque facilisi montes sollicitudin suscipit. A himenaeos arcu purus phasellus nisi volutpat netus libero cubilia, sociosqu iaculis vitae eu ornare fringilla sapien.
+In particular, a license may be issued by authorities, to allow an activity that would otherwise be forbidden. It may require paying a fee or proving a capability. The requirement may also serve to keep the authorities informed on a type of activity, and to give them the opportunity to set conditions and limitations.
 
-Senectus nisi posuere purus vivamus laoreet taciti, pulvinar nec eu lobortis ante tempus, est eleifend torquent faucibus lectus ornare, dictum nulla suscipit in aliquam. Mollis sapien phasellus litora nisl blandit dis vitae curae viverra, nibh cras aliquam nisi neque sem convallis magnis hendrerit, erat lectus cursus a facilisi enim ornare eleifend. Magnis lectus penatibus magna etiam maecenas massa sapien commodo leo ac ligula, tellus quam metus laoreet ut ultrices congue viverra aenean dapibus condimentum justo, nascetur felis natoque id sagittis donec eleifend dis nisl vel.
+A licensor may grant a license under intellectual property laws to authorize a use (such as copying software or using a (patented) invention) to a licensee, sparing the licensee from a claim of infringement brought by the licensor. A license under intellectual property commonly has several components beyond the grant itself, including a term, territory, renewal provisions, and other limitations deemed vital to the licensor.
+
+Term: many licenses are valid for a particular length of time. This protects the licensor should the value of the license increase, or market conditions change. It also preserves enforceability by ensuring that no license extends beyond the term of the agreement.
+
+Territory: a license may stipulate what territory the rights pertain to. For example, a license with a territory limited to "North America" (Mexico/United States/Canada) would not permit a licensee any protection from actions for use in Japan.
+
+A shorthand definition of license is "a promise by the licensor not to sue the licensee". That means without a license any use or exploitation of intellectual property by a third party would amount to copying or infringement. Such copying would be improper and could, by using the legal system, be stopped if the intellectual property owner wanted to do so.
+
+Intellectual property licensing plays a major role in business, academia and broadcasting. Business practices such as franchising, technology transfer, publication and character merchandising entirely depend on the licensing of intellectual property. Land licensing (proprietary licensing) and IP licensing form sub-branches of law born out of the interplay of general laws of contract and specific principles and statutory laws relating to these respective assets. 
+
+Content from [wikipedia](https://en.wikipedia.org/wiki/License).

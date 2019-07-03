@@ -6,10 +6,25 @@ tags: [manufacturing]
 categories: [circle, manufacturing]
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit magnis dictum, parturient eleifend mauris eget euismod ut gravida tristique ante, neque molestie dictumst mus magna lacus in viverra.<!--more--> Nisi cras blandit magnis dui vivamus vel a enim fames, molestie quisque ligula ante ridiculus gravida habitasse arcu. Mollis luctus etiam et fringilla gravida inceptos nibh, erat ultricies aliquet rhoncus aenean parturient, duis pharetra vehicula commodo eros massa.
+Machining is any process in which a cutting tool is used to remove small chips of material from the workpiece (the workpiece is often called the "work"). To perform the operation, relative motion is required between the tool and the work. This relative motion is achieved in most machining operation by means of a primary motion, called "cutting speed" and a secondary motion called "feed".[7] The shape of the tool and its penetration into the work surface, combined with these motions, produce the desired shape of the resulting work surface.
 
-Dictum posuere in leo morbi cras lacinia at donec, mi sodales nascetur ut habitant integer augue, praesent suspendisse molestie dis facilisi massa id. Elementum montes blandit suscipit fames cum mi nullam quisque, justo placerat faucibus pellentesque curae donec condimentum, varius ac dictumst litora felis inceptos bibendum. Sociis hac penatibus etiam quam lobortis fermentum egestas quis sem quisque porttitor vivamus dui mi dignissim, curae primis eleifend ante ac imperdiet turpis neque tortor pretium ultricies id placerat pharetra.
+## Machining operations
 
-Nisi ac nostra porta fringilla facilisis magnis mauris hac praesent mattis congue, pharetra placerat pulvinar enim rhoncus netus lectus duis lacus porttitor, curae litora dui justo ridiculus sem erat penatibus primis vehicula. Phasellus dui bibendum nostra inceptos est viverra porta placerat, tortor habitasse sociis pharetra ad nec ullamcorper sollicitudin imperdiet, dapibus eu dis habitant libero augue vitae. Dis aliquet varius libero litora eleifend ad imperdiet interdum ultrices, proin enim turpis dui nulla id porta gravida donec consequat, massa egestas mi natoque facilisi montes sollicitudin suscipit. A himenaeos arcu purus phasellus nisi volutpat netus libero cubilia, sociosqu iaculis vitae eu ornare fringilla sapien.
+There are many kinds of machining operations, each of which is capable of generating a certain part geometry and surface texture.
 
-Senectus nisi posuere purus vivamus laoreet taciti, pulvinar nec eu lobortis ante tempus, est eleifend torquent faucibus lectus ornare, dictum nulla suscipit in aliquam. Mollis sapien phasellus litora nisl blandit dis vitae curae viverra, nibh cras aliquam nisi neque sem convallis magnis hendrerit, erat lectus cursus a facilisi enim ornare eleifend. Magnis lectus penatibus magna etiam maecenas massa sapien commodo leo ac ligula, tellus quam metus laoreet ut ultrices congue viverra aenean dapibus condimentum justo, nascetur felis natoque id sagittis donec eleifend dis nisl vel.
+In turning, a cutting tool with a single cutting edge is used to remove material from a rotating workpiece to generate a cylindrical shape. The primary motion is provided by rotating the workpiece, and the feed motion is achieved by moving the cutting tool slowly in a direction parallel to the axis of rotation of the workpiece.
+
+Drilling is used to create a round hole. It is accomplished by a rotating tool that typically has two or four helical cutting edges. The tool is fed in a direction parallel to its axis of rotation into the workpiece to form the round hole.
+
+In boring, a tool with a single bent pointed tip is advanced into a roughly made hole in a spinning workpiece to slightly enlarge the hole and improve its accuracy. It is a fine finishing operation used in the final stages of product manufacture.
+
+Reaming is one of the sizing operations that removes a small amount of metal from a hole already drilled.
+
+In milling, a rotating tool with multiple cutting edges is moved slowly relative to the material to generate a plane or straight surface. The direction of the feed motion is perpendicular to the tool's axis of rotation. The speed motion is provided by the rotating milling cutter. The two basic forms of milling are:
+
+* Peripheral milling
+* Face milling.
+
+Other conventional machining operations include shaping, planing, broaching and sawing. Also, grinding and similar abrasive operations are often included within the category of machining.
+
+Content from [wikipedia](https://en.wikipedia.org/wiki/Machining).

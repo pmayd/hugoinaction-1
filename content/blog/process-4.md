@@ -4,10 +4,18 @@ series: [manufacturing]
 date: "2019-01-04T00:00:00Z"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit magnis dictum, parturient eleifend mauris eget euismod ut gravida tristique ante, neque molestie dictumst mus magna lacus in viverra.<!--more--> Nisi cras blandit magnis dui vivamus vel a enim fames, molestie quisque ligula ante ridiculus gravida habitasse arcu. Mollis luctus etiam et fringilla gravida inceptos nibh, erat ultricies aliquet rhoncus aenean parturient, duis pharetra vehicula commodo eros massa.
+A cutting tool has one or more sharp cutting edges and is made of a material that is harder than the work material. The cutting edge serves to separate chip from the parent work material. Connected to the cutting edge are the two surfaces of the tool:
 
-Dictum posuere in leo morbi cras lacinia at donec, mi sodales nascetur ut habitant integer augue, praesent suspendisse molestie dis facilisi massa id. Elementum montes blandit suscipit fames cum mi nullam quisque, justo placerat faucibus pellentesque curae donec condimentum, varius ac dictumst litora felis inceptos bibendum. Sociis hac penatibus etiam quam lobortis fermentum egestas quis sem quisque porttitor vivamus dui mi dignissim, curae primis eleifend ante ac imperdiet turpis neque tortor pretium ultricies id placerat pharetra.
+* The rake face; and
+* The flank.
 
-Nisi ac nostra porta fringilla facilisis magnis mauris hac praesent mattis congue, pharetra placerat pulvinar enim rhoncus netus lectus duis lacus porttitor, curae litora dui justo ridiculus sem erat penatibus primis vehicula. Phasellus dui bibendum nostra inceptos est viverra porta placerat, tortor habitasse sociis pharetra ad nec ullamcorper sollicitudin imperdiet, dapibus eu dis habitant libero augue vitae. Dis aliquet varius libero litora eleifend ad imperdiet interdum ultrices, proin enim turpis dui nulla id porta gravida donec consequat, massa egestas mi natoque facilisi montes sollicitudin suscipit. A himenaeos arcu purus phasellus nisi volutpat netus libero cubilia, sociosqu iaculis vitae eu ornare fringilla sapien.
+The rake face which directs the flow of newly formed chip, is oriented at a certain angle is called the rake angle "α". It is measured relative to the plane perpendicular to the work surface. The rake angle can be positive or negative. The flank of the tool provides a clearance between the tool and the newly formed work surface, thus protecting the surface from abrasion, which would degrade the finish. This angle between the work surface and the flank surface is called the relief angle. There are two basic types of cutting tools:
 
-Senectus nisi posuere purus vivamus laoreet taciti, pulvinar nec eu lobortis ante tempus, est eleifend torquent faucibus lectus ornare, dictum nulla suscipit in aliquam. Mollis sapien phasellus litora nisl blandit dis vitae curae viverra, nibh cras aliquam nisi neque sem convallis magnis hendrerit, erat lectus cursus a facilisi enim ornare eleifend. Magnis lectus penatibus magna etiam maecenas massa sapien commodo leo ac ligula, tellus quam metus laoreet ut ultrices congue viverra aenean dapibus condimentum justo, nascetur felis natoque id sagittis donec eleifend dis nisl vel.
+* Single point tool; and
+* Multiple-cutting-edge tool
+
+A single point tool has one cutting edge and is used for turning, boring and planing. During machining, the point of the tool penetrates below the original work surface of the workpart. The point is sometimes rounded to a certain radius, called the nose radius.
+
+Multiple-cutting-edge tools have more than one cutting edge and usually achieve their motion relative to the workpart by rotating. Drilling and milling uses rotating multiple-cutting-edge tools. Although the shapes of these tools are different from a single-point tool, many elements of tool geometry are similar. 
+
+Content from [wikipedia](https://en.wikipedia.org/wiki/Machining).
