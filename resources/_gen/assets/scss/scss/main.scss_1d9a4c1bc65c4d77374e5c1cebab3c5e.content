@@ -47,7 +47,8 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
-  text-align: justify; }
+  text-align: justify;
+  text-decoration-skip-ink: auto; }
 
 html {
   display: flex;
@@ -230,6 +231,8 @@ table {
     .highlight table td,
     .highlight table th {
       padding: 0; }
+    .highlight table td:nth-child(2) {
+      width: 99%; }
 
 button, .button, .button-small {
   cursor: pointer;
