@@ -169,7 +169,7 @@ A link to [Fractions](#fractions)
 
 Alex
 : Hippy Web Developer
-: Technofile
+: Technophile
 
 Bob
 : Classic SysAdmin
@@ -202,3 +202,16 @@ if (!tired()) {
 <!-- Output -->
 {{< youtube nLAVanlu5js >}}
 {{</ highlight >}}
+
+
+## Inline shortcodes.
+
+### Inline Shortcode declaration and first use
+{{% reuse.inline %}}A programmer's wife sends him to the grocery with instructions: **Get a loaf of bread and if they have eggs, get a dozen**. He came back with a dozen loafs of bread: **They had eggs.**
+{{% /reuse.inline %}}
+
+### Shortcode usage as HTML
+{{< reuse.inline />}}
+
+### Shortcode usage as Markup
+{{% reuse.inline /%}}
