@@ -13,6 +13,42 @@
     
     
     <item>
+      <title>circle</title>
+      <link>https://hugoinaction.com/categories/circle/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manufacturing</title>
+      <link>https://hugoinaction.com/categories/manufacturing/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>square</title>
+      <link>https://hugoinaction.com/categories/square/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/square/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>line</title>
+      <link>https://hugoinaction.com/categories/line/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/categories/line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>design</title>
       <link>https://hugoinaction.com/categories/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,15 +81,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>https://hugoinaction.com/categories/shape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>square</title>
-      <link>https://hugoinaction.com/categories/square/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/categories/square/</guid>
       <description></description>
     </item>
     

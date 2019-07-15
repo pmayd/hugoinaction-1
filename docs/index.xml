@@ -8,10 +8,46 @@
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hugoinaction.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>Our Manufacturing Process Part IV</title>
+<link>https://hugoinaction.com/blog/process-4/</link>
+<pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/process-4/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Our Manufacturing Process Part III</title>
+<link>https://hugoinaction.com/blog/process-3/</link>
+<pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/process-3/</guid>
+<description></description>
+<category>CircleManufacturing</category></item>
+    
+    <item>
+<title>Our Manufacturing Process Part II</title>
+<link>https://hugoinaction.com/blog/process-2/</link>
+<pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/process-2/</guid>
+<description></description>
+<category>SquareManufacturing</category></item>
+    
+    <item>
+<title>Our Manufacturing Process Part I</title>
+<link>https://hugoinaction.com/blog/process-1/</link>
+<pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/process-1/</guid>
+<description></description>
+<category>LineManufacturing</category></item>
     
     <item>
 <title>About Us</title>
@@ -21,42 +57,6 @@
       <guid>https://hugoinaction.com/about/</guid>
 <description>World&#39;s leading manufacturer of digital shapes. We shape the world. You live in it.</description>
 <category></category></item>
-    
-    <item>
-<title></title>
-<link>https://hugoinaction.com/blog/building-squares/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/blog/building-squares/</guid>
-<description></description>
-<category>ShapeDesign</category></item>
-    
-    <item>
-<title></title>
-<link>https://hugoinaction.com/blog/community/circle/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/blog/community/circle/</guid>
-<description></description>
-<category>ShapePublic</category></item>
-    
-    <item>
-<title></title>
-<link>https://hugoinaction.com/blog/community/curve/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/blog/community/curve/</guid>
-<description></description>
-<category>ShapePublic</category></item>
-    
-    <item>
-<title></title>
-<link>https://hugoinaction.com/blog/tropical-triangles/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/blog/tropical-triangles/</guid>
-<description></description>
-<category>ShapeDesign</category></item>
     
     <item>
 <title></title>
@@ -78,24 +78,6 @@
     
     <item>
 <title></title>
-<link>https://hugoinaction.com/news/shaper/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/news/shaper/</guid>
-<description></description>
-<category>ShapePublic</category></item>
-    
-    <item>
-<title></title>
-<link>https://hugoinaction.com/news/square-license/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://hugoinaction.com/news/square-license/</guid>
-<description></description>
-<category>SquareGeneral</category></item>
-    
-    <item>
-<title></title>
 <link>https://hugoinaction.com/privacy/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
@@ -111,6 +93,69 @@
       <guid>https://hugoinaction.com/terms/</guid>
 <description></description>
 <category></category></item>
+    
+    <item>
+<title>Building Squares</title>
+<link>https://hugoinaction.com/blog/building-squares/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/building-squares/</guid>
+<description></description>
+<category>ShapeDesign</category></item>
+    
+    <item>
+<title>Circle</title>
+<link>https://hugoinaction.com/blog/community/circle/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/community/circle/</guid>
+<description></description>
+<category>ShapePublic</category></item>
+    
+    <item>
+<title>Curve</title>
+<link>https://hugoinaction.com/blog/community/curve/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/community/curve/</guid>
+<description></description>
+<category>ShapePublic</category></item>
+    
+    <item>
+<title>Shaper</title>
+<link>https://hugoinaction.com/news/shaper/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/news/shaper/</guid>
+<description></description>
+<category>ShapePublic</category></item>
+    
+    <item>
+<title>Square License</title>
+<link>https://hugoinaction.com/news/square-license/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/news/square-license/</guid>
+<description></description>
+<category>SquareGeneral</category></item>
+    
+    <item>
+<title>Template Page</title>
+<link>https://hugoinaction.com/template/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/template/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Tropical triangles</title>
+<link>https://hugoinaction.com/blog/tropical-triangles/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://hugoinaction.com/blog/tropical-triangles/</guid>
+<description></description>
+<category>ShapeDesign</category></item>
     
   </channel>
 </rss>
