@@ -1,4 +1,18 @@
 <html>
+  <head>
+    <title>{{.Page.Title}} | {{.Site.Title}}</title>
+    <meta name="description" content="{{.Page.Description}}" />
+    {{if .Param "twitter"}}  {{/* Render if twitter option is supplied */}}
+      {{/* Twitter card type */}}
+      {{with .Param "twitter.type"}}<meta name="twitter:card" content="{{.}}" />{{end}}
+      {{/* Twitter user to associate the page with */}}
+      {{with .Param "twitter.site"}}<meta name="twitter:site" content="{{.}}" />{{end}}
+      {{/* Title for twitter card */}}
+      <meta name="twitter:title" content="{{.Page.Title}}" />
+      {{/* Text for the twitter card */}}
+      <meta name="twitter:description" content="{{default .Page.Summary .Page.Description}}" />
+    {{end}}
+  </head>
   <style>
     body {
       text-align: center;
