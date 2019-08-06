@@ -1,3 +1,10 @@
+---
+menu:
+  home:
+    name: Privacy
+    identifier: privacy
+    weight: 2
+---
 Privacy Policy
 ==============
 
@@ -130,7 +137,7 @@ If you have any questions about this Privacy Policy, please contact us:
 *   By visiting this page on our website: http://acme.hugoinaction.com/contact
 
 ****
-  
+
 Ratified and agreed upon by all parties.
 
 ![Acme Corporation Logo](/image/logo.png "Acme Corporation")

@@ -1,3 +1,10 @@
+---
+menu:
+  home:
+    name: Terms of use
+    identifier: terms
+    weight: 1
+---
 Terms of Use
 ============
 ## Terms
