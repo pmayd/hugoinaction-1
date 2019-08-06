@@ -3,7 +3,7 @@ menu:
   home:
     name: Privacy
     identifier: privacy
-    weight: 2
+    weight: -4
 ---
 Privacy Policy
 ==============

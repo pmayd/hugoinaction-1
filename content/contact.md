@@ -3,7 +3,7 @@ menu:
   home:
     name: Contact Us
     identifier: contact
-    weight: 0
+    weight: -2
 ---
 Contact Us
 ----------
