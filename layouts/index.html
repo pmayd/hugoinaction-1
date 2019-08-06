@@ -15,16 +15,19 @@
   </head>
   <style>
     body {
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
       height: 100vh;
       margin: 0;
       padding: 0;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
       background-image: url(image/background.svg);
       background-size: cover;
+    }
+    section {
+          text-align: center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          min-height: 100vh;
     }
     body * {
       font-weight: lighter;
@@ -52,6 +55,9 @@
     }
     a:hover {
       text-decoration: underline;
+    }
+    .scroll {
+      margin: 40px;
     }
     @media only screen and (min-width : 320px) {
       main {
@@ -84,12 +90,19 @@
     }
   </style>
   <body>
+    <section>
     <main>
       <img src="./image/logo.svg" width="60px">
       {{.Content}}
       {{ range .Site.Menus.home }}
       <a href="{{.URL}}">{{.Name | humanize}}</a>
       {{end}}
+      <div class="scroll" onclick="document.body.scrollBy({top: window.innerHeight, behavior: 'smooth'})">⬇ Scroll for
+        more information ⬇</div>
     </main>
+    </section>
+    <section>
+
+    </section>
   </body>
 </html>
