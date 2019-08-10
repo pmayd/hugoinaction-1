@@ -92,6 +92,21 @@
       border-bottom: 4px double #000;
       font-weight: bold;
     }
+    details summary {
+      display: block;
+      cursor: pointer;
+      color: #71B180;
+    }
+    details summary::-webkit-details-marker {
+      display:none;
+    }
+    .testimonials {
+      text-align: left;
+      min-width: 80vw;
+    }
+    .testimonials ol{
+      margin: 40px 0;
+    }
     @media only screen and (min-width : 320px) {
       main, article {
         margin: 0 10px 0 10px;
@@ -164,6 +179,28 @@
         <a href="/products.csv" download>Click here to download this listing.</a>
       </article>
     </section>
+    {{with .Page.Params.testimonials}}
+      <section>
+        <article>
+        <h1>Our clients</h1>
+        <div class="testimonials">
+          <ol>
+          {{range .}}
+          <li>
+            <details>
+              <summary>
+                <h3>{{.author}}</h3>
+              </summary>
+              <p>{{.content}}</p>
+            </details>
+          </li>
+          {{end}}
+          </ol>
+          <small>Click each to see testimonials.</small>
+        </div>
+        </article>
+      </section>
+    {{end}}
     <footer>
       {{$.Param "copyright" | markdownify}}
     </footer>
