@@ -151,12 +151,14 @@
       <article>
         <h1> Our Products</h1>
         <table>
-          {{ range getCSV "," "static/products.csv" }}
-          <tr>
-            {{range .}}
-            <td>{{ . }}</td>
-            {{ end }}
-          </tr>
+          {{ range $i, $r := getCSV "," "static/products.csv" }}
+          {{if eq $i 0}}<thead>{{end}}
+            <tr>
+              {{range $r}}
+              <td>{{ . }}</td>
+              {{ end }}
+            </tr>
+            {{if eq $i 0}}</thead>{{end}}
           {{ end }}
         </table>
         <a href="/products.csv" download>Click here to download this listing.</a>
