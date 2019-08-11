@@ -1,8 +1,2 @@
 {{$product := default (.Get 0) (.Get "product")}}
-{{if $product}}
-{{ range $r := getCSV "," "static/products.csv" }}
-  {{if eq (index $r 0) $product}}
-    {{index $r 2}}
-  {{end}}
-{{ end }}
-{{ end }}
+{{(partialCached "price" "").Get $product }}
