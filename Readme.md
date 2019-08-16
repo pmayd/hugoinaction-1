@@ -12,7 +12,7 @@ Code Sections
 
 ### Branches
 
-The branches in this repository correspond to the sections of Hugo In Action.
+The branches in this repository correspond to the sections of Hugo In Action. Each chapter also has a branch with all the resource files that can used to build the Acme Corporation website following the steps as discussed in the book.
 
 | Branch / Code Section | Book Section |
 |      ----------       |   ---   |
