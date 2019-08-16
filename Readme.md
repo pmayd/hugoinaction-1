@@ -14,9 +14,9 @@ Code Sections
 
 The branches in this repository correspond to the sections of Hugo In Action.
 
-| Branch / Code Section | Chapter | Section |
-|      ----------       |   ---   |   ---   |
-| [ch02-1](https://github.com/hugoinaction/hugoinaction/tree/ch02-1)                |    2    |    3    |
-| [ch02-2](https://github.com/hugoinaction/hugoinaction/tree/ch02-2)                |    2    |    4    |
-| [ch02-3](https://github.com/hugoinaction/hugoinaction/tree/ch02-3)                |    2    |    5.1  |
+| Branch / Code Section | Book Section |
+|      ----------       |   ---   |
+| [ch02-1](https://github.com/hugoinaction/hugoinaction/tree/ch02-1)                |    2.3    |
+| [ch02-2](https://github.com/hugoinaction/hugoinaction/tree/ch02-2)                |    2.4    |
+| [ch02-3](https://github.com/hugoinaction/hugoinaction/tree/ch02-3)                |    2.5.1  |
 
