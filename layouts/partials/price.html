@@ -1,6 +1,0 @@
-{{$scratch := newScratch}}
-{{ range $r := getCSV "," "static/products.csv" }}
-  {{$scratch.Set (index $r 0) (index $r 2)}}
-{{ end }}
-
-{{return $scratch}}
