@@ -1,16 +1,8 @@
 Hugo In Action
 ===============
 
-
-Hugo In Action Website
----------------------
-[![Netlify Status](https://api.netlify.com/api/v1/badges/83ef031c-395c-40f2-a263-20d073bf8d26/deploy-status)](https://app.netlify.com/sites/hugoinaction/deploys)
-
-
 Code Sections
 -------------
-
-### Branches
 
 The branches in this repository correspond to the sections of Hugo In Action. Each chapter also has a branch with all the resource files that can used to build the Acme Corporation website following the steps as discussed in the book.
 
@@ -22,3 +14,9 @@ The branches in this repository correspond to the sections of Hugo In Action. Ea
 | [ch02-3](https://github.com/hugoinaction/hugoinaction/tree/ch02-3)                |    2.5.1  | https://ch02-3.hugoinaction.com |
 | [ch02-4](https://github.com/hugoinaction/hugoinaction/tree/ch02-4)                |    2.5.3  | https://ch02-4.hugoinaction.com |
 | [ch02-5](https://github.com/hugoinaction/hugoinaction/tree/ch02-5)                |    2.7    | https://ch02-5.hugoinaction.com |
+
+Hugo In Action Website
+---------------------
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83ef031c-395c-40f2-a263-20d073bf8d26/deploy-status)](https://app.netlify.com/sites/hugoinaction/deploys)
+
+The website https://hugoinaction.com is hosted from this repository via the [hugoinaction.com branch](https://github.com/hugoinaction/hugoinaction/tree/hugoinaction.com).
