@@ -1,3 +1,5 @@
-baseURL: https://ch02-1.hugoinaction.com
+baseURL: https://ch02-2.hugoinaction.com           # Hosting location.
 languageCode: en-us
 title: My New Hugo Site
+theme: github.com/hugoinaction/Eclectic
+publishDir: docs                                   # For hosting.
