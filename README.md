@@ -1,7 +1,7 @@
 Hugo In Action
 ===============
 
-This code corresponds to section 2.5.1 of Hugo in Action.
+This code corresponds to section 2.3.1 of Hugo in Action.
 
 You can see this live at https://ch02-3.hugoinaction.com.
 
