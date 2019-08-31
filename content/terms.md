@@ -1,12 +1,38 @@
-Terms of Use
-------------
+Terms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Faucibus scelerisque eleifend donec pretium. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non. Rutrum quisque non tellus orci. Tincidunt dui ut ornare lectus sit amet est placerat in. Erat velit scelerisque in dictum non consectetur a erat nam. Sed faucibus turpis in eu. Nullam vehicula ipsum a arcu cursus vitae congue mauris. Ut venenatis tellus in metus vulputate eu scelerisque felis.
+By accessing the website for Acme Corporation, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
-Nisl pretium fusce id velit ut tortor pretium viverra. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Luctus venenatis lectus magna fringilla urna porttitor. Imperdiet sed euismod nisi porta. Enim diam vulputate ut pharetra sit. Consectetur libero id faucibus nisl tincidunt eget nullam non. Sagittis eu volutpat odio facilisis. Faucibus vitae aliquet nec ullamcorper. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Erat pellentesque adipiscing commodo elit. Integer malesuada nunc vel risus commodo viverra maecenas. Tortor at risus viverra adipiscing at.
+Use License
 
-Sit amet mauris commodo quis imperdiet. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Commodo elit at imperdiet dui accumsan sit amet. Elementum sagittis vitae et leo duis ut diam. Iaculis eu non diam phasellus vestibulum. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Non diam phasellus vestibulum lorem sed. Neque ornare aenean euismod elementum nisi quis eleifend. Tellus in metus vulputate eu. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Elementum eu facilisis sed odio. Ultrices sagittis orci a scelerisque purus semper eget duis. Amet cursus sit amet dictum. Sed euismod nisi porta lorem mollis aliquam. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Volutpat commodo sed egestas egestas fringilla. Curabitur vitae nunc sed velit dignissim sodales ut eu.
+1)  Permission is granted to temporarily download one copy of the materials (information or software) on Acme Corporation's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+    -  modify or copy the materials;
+    -  use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+    -  attempt to decompile or reverse engineer any software contained on Acme Corporation's website;
+    -  remove any copyright or other proprietary notations from the materials; or
+    -  transfer the materials to another person or "mirror" the materials on any other server.
+2)  This license shall automatically terminate if you violate any of these restrictions and may be terminated by Acme Corporation at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
-Purus faucibus ornare suspendisse sed nisi. Eleifend mi in nulla posuere. Quis risus sed vulputate odio ut enim blandit volutpat. At tempor commodo ullamcorper a lacus. Ut consequat semper viverra nam libero. In eu mi bibendum neque egestas. Donec pretium vulputate sapien nec sagittis. Faucibus vitae aliquet nec ullamcorper sit. Eu nisl nunc mi ipsum faucibus vitae aliquet. Ultrices in iaculis nunc sed augue. At auctor urna nunc id cursus metus aliquam eleifend.
+Disclaimer
 
-Et magnis dis parturient montes nascetur ridiculus. Ac turpis egestas integer eget. Eget lorem dolor sed viverra ipsum nunc aliquet. Dictum sit amet justo donec enim diam vulputate. Nulla facilisi morbi tempus iaculis. Et ultrices neque ornare aenean euismod elementum. Ultricies integer quis auctor elit sed. Quam viverra orci sagittis eu. Tortor pretium viverra suspendisse potenti nullam ac. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.
+1)  The materials on Acme Corporation's website are provided on an 'as is' basis. Acme Corporation makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+2)  Further, Acme Corporation does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+
+Limitations
+
+In no event shall Acme Corporation or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Acme Corporation's website, even if Acme Corporation or a Acme Corporation authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+
+Accuracy of materials
+
+The materials appearing on Acme Corporation website could include technical, typographical, or photographic errors. Acme Corporation does not warrant that any of the materials on its website are accurate, complete or current. Acme Corporation may make changes to the materials contained on its website at any time without notice. However Acme Corporation does not make any commitment to update the materials.
+
+Links
+
+Acme Corporation has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Acme Corporation of the site. Use of any such linked website is at the user's own risk.
+
+Modifications
+
+Acme Corporation may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+
+Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of fictional universe and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
