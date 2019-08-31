@@ -1,4 +1,4 @@
-baseURL: https://ch02-4.hugoinaction.com/     # Hosting location.
+baseURL: https://ch02-5b.hugoinaction.com/     # Hosting location.
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 publishDir: docs                              # Output folder
