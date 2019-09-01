@@ -49,7 +49,7 @@ Also a # tag.
 Horizontal Lines:
 
 ------------------------------------
-. 
+.
 ***********************************
 .
 ***
@@ -89,4 +89,4 @@ Content with a -- (dash) and a --- (long dash).
 
 Sample inline code `a++` can be specified here.
 
-![Alt Text](/path/to/image "Optional Tooltip")
+![Alt Text](/image/logo.png "Optional Tooltip")
