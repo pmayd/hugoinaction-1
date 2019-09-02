@@ -1,8 +1,10 @@
-baseURL: https://ch03-2.hugoinaction.com/     # Hosting location.
+baseURL: https://ch03-3.hugoinaction.com/     # Hosting location
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 publishDir: docs                              # Output folder
 theme: github.com/hugoinaction/Eclectic       # Name of the theme
+enableEmoji: true                             # Enable Emojis
+pygmentsCodefences: true                      # Enable Code fences
 author:                                       # Information about the website author
   facebook: "https://facebook.com/example"
   twitter: "https://twitter.com/example"
