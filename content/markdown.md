@@ -104,7 +104,7 @@ Less Than: &lt;
 
 Greater Than: &gt;
 
-Ampresand: &amp;
+Ampersand: &gt;
 
 Smiley: &#x1F604;
 
