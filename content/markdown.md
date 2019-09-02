@@ -49,7 +49,7 @@ Also a # tag.
 Horizontal Lines:
 
 ------------------------------------
-. 
+.
 ***********************************
 .
 ***
@@ -104,7 +104,7 @@ Less Than: &lt;
 
 Greater Than: &gt;
 
-Ampresand: &gt;
+Ampresand: &amp;
 
 Smiley: &#x1F604;
 
