@@ -41,8 +41,6 @@ Products
 
 {{% productInfo %}}
 
-[Circle on wikipedia]: https://en.wikipedia.org/wiki/Circle
-
 Team
 -----
 
