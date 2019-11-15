@@ -29,4 +29,75 @@ Updated: {{$scratch.Get "message"}}                            <br />
 {{ $scratch.SetInMap "message" "english" "Hello World" }}
 {{ $scratch.SetInMap "message" "french" "Bonjour le monde" }}
 Dict: {{ $scratch.Get "message" }}                             <br />
+<h2> Functions </h2>
+<b>Boolean Functions</b>
+5 &lt; 3 : {{lt 5 3}}                                          <br />
+5 &gt; 3 : {{gt 5 3}}                                          <br />
+5 &ge; 3 : {{ge 5 3}}                                          <br />
+5 &le; 3 : {{le 5 3}}                                          <br />
+5 = 3 : {{eq 5 3}}                                             <br />
+5 &ne; 3 : {{ne 5 3}}                                          <br />
+                                                               <br />
+<b>Logical Functions</b>
+true and false : {{and true false}}                            <br />
+true or false : {{or true false}}                              <br />
+not true : {{not true}}                                        <br />
+                                                               <br />
+<b>Arithmetic Functions</b>
+2 + 3 : {{add 2 3}}                                            <br />
+2 - 3 : {{sub 2 3}}                                            <br />
+2 x 3 : {{mul 2 3}}                                            <br />
+2 &divide; 3 : {{div 2 3}} {{/* Int types   */}}               <br />
+2 &divide; 3 : {{div 2.0 3}} {{/* Float types */}}             <br />
+2 % 3 : {{mod 2 3}}                                            <br />
+2 % 3? : {{modBool 2 3}}                                       <br />
+                                                               <br />
+<b>Nested Functions</b>
+5/(2 + (3 x 2.0)) : {{div 5 (add 2 (mul 3 2.0))}}              <br />
+                                                               <br />
+<b>Piped Functions</b>
+5/(2 + (3 x 2.0)) : {{mul 3 2.0 | add 2 | div 5}}              <br />
+                                                               <br />
+<b>Nested + Piped Hybrid</b>
+5/(2 + (3 x 2.0)) : {{div 5 (mul 3 2.0 | add 2)}}              <br />
 
+<h2> Conditionals </h2>
+<b>If</b>
+{{$condition := false}}
+{{/* Condition via if */}}
+{{if $condition}}
+{{$condition}} is true.
+{{else}}
+{{$condition}} is false.
+{{end}}                                                        <br />
+                                                               <br />
+<b>With</b>
+{{$condition := "test"}}
+
+{{/* Condition via with */}}
+{{with $condition}}
+{{.}} is the value of the condition
+{{else}}
+Condition is not defined.
+{{end}}                                                       <br />
+                                                               <br />
+<b>Cond</b>
+{{$count := 1}}
+{{cond (eq $count 1) "page" "pages"}}
+
+<h2>Loops</h2>
+<b>All website pages:</b>
+<ul>
+{{range .Site.Pages}}
+<li> {{.Title}}</li>
+{{end}}
+</ul>
+<b>Range context</b>
+<ul>
+{{$title := .Site.Title}}
+{{range .Site.Pages}}
+<li> {{.Title}} @ {{$title}}</li>
+{{end}}
+</ul>
+<h2>Debugging</h2>
+{{ printf "%#v" $.Site }}
