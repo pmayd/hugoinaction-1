@@ -20,6 +20,7 @@ The branches in this repository correspond to the sections of Hugo In Action. Ea
 | [ch03-3](https://github.com/hugoinaction/hugoinaction/tree/ch03-3)                |    3.1.5    | https://ch03-3.hugoinaction.com |
 | [ch03-4](https://github.com/hugoinaction/hugoinaction/tree/ch03-4)                |    3.4      | https://ch03-4.hugoinaction.com |
 | [ch03-5](https://github.com/hugoinaction/hugoinaction/tree/ch03-5)                |    3.5      | https://ch03-5.hugoinaction.com |
+| *Chapter 4*           | [Resources](https://github.com/hugoinaction/hugoinaction/archive/ch04-resources.zip) ||
 | [ch04-1](https://github.com/hugoinaction/hugoinaction/tree/ch04-1)                |    4.1      | https://ch04-1.hugoinaction.com |
 | [ch04-2](https://github.com/hugoinaction/hugoinaction/tree/ch04-2)                |    4.2.1    | https://ch04-2.hugoinaction.com |
 | [ch04-3](https://github.com/hugoinaction/hugoinaction/tree/ch04-3)                |    4.2.2    | https://ch04-3.hugoinaction.com |
