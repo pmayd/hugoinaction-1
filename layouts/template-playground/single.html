@@ -1,0 +1,32 @@
+<h1>Hugo Templates</h1>
+<h2>Variables</h2>
+<b>Custom Variables</b>                                        <br />
+{{$mycustom := .Site.Title}}
+Site Title: {{$mycustom}}                                      <br />
+{{/* Override $mycustom */}}
+{{$mycustom = .Page.Title}}
+Page Title: {{$mycustom}}                                      <br />
+                                                               <br />
+<b>Data Types</b>                                              <br />
+Integer: {{2}}                                                 <br />
+Float: {{3.14}}                                                <br />
+Boolean: {{false}}                                             <br />
+String: {{"hello"}}                                            <br />
+                                                               <br />
+Slice: {{slice "foo" "bar" "buzz"}}                            <br />
+Dict: {{dict "key1" "val1" "w" 10 "h" 20}}                     <br />
+Time: {{time "2020-01-01T00:00:00+08:00"}}                     <br />
+                                                               <br />
+{{ $scratch := newScratch }}
+{{ $scratch.Set "message" "Hello" }}
+Scratch: {{ $scratch }}                                        <br />
+Getter: {{ $scratch.Get "message" }}                           <br />
+{{/* Appends a string, adds a number, inserts in a slice */}}
+{{ $scratch.Add "message" " World" }}
+Updated: {{$scratch.Get "message"}}                            <br />
+{{ $scratch := newScratch }}
+{{/* You can also create a dictionary in a scratchpad */}}
+{{ $scratch.SetInMap "message" "english" "Hello World" }}
+{{ $scratch.SetInMap "message" "french" "Bonjour le monde" }}
+Dict: {{ $scratch.Get "message" }}                             <br />
+
