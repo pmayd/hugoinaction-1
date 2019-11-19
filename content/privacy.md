@@ -1,3 +1,10 @@
+---
+menu:
+  home:
+    name: Privacy Policy
+    identifier: privacy
+    weight: -4
+---
 Privacy Policy
 ==============
 

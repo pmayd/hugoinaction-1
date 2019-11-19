@@ -7,6 +7,10 @@ menu:
   footer:
     name: Blog
     weight: 2
+  home:
+    name: Blog
+    identifier: blog
+    weight: -2
 ---
 The Acme Blog
 ============

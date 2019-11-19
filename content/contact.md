@@ -1,3 +1,10 @@
+---
+menu:
+  home:
+    name: Contact
+    identifier: contact
+    weight: -1
+---
 Contact Us
 ----------
 
