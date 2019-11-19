@@ -6,14 +6,16 @@
     {{if $.Page.Description}}<meta name="description" content="{{$.Page.Description}}" />{{end}}
   </head>
   <body>
-    <main>
-      <img src="./image/logo.svg" width="60px">
-      {{if $title}}<h1 class="intro">{{$title}}</h1>{{end}}
-      {{if $.Param "subtitle"}}<h2>{{$.Param "subtitle"}}</h2>{{end}}
-      <a href="./about">About Us</a>
-      <a href="./privacy">Privacy Policy</a>
-      <a href="./terms">Terms of Use</a>
-      <a href="./contact">Contact Us</a>
-    </main>
+    <section>
+      <main>
+        <img src="./image/logo.svg" width="60px">
+        {{if $title}}<h1 class="intro">{{$title}}</h1>{{end}}
+        {{if $.Param "subtitle"}}<h2>{{$.Param "subtitle"}}</h2>{{end}}
+        <a href="./about">About Us</a>
+        <a href="./privacy">Privacy Policy</a>
+        <a href="./terms">Terms of Use</a>
+        <a href="./contact">Contact Us</a>
+      </main>
+  </section>
   </body>
 </html>
