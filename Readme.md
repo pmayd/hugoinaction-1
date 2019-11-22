@@ -32,7 +32,22 @@ The branches in this repository correspond to the sections of Hugo In Action. Ea
 | [ch04-9](https://github.com/hugoinaction/hugoinaction/tree/ch04-9)                |    4.6.1    | https://ch04-9.hugoinaction.com |
 | [ch04-10](https://github.com/hugoinaction/hugoinaction/tree/ch04-10)              |    4.6.2    | https://ch04-10.hugoinaction.com |
 | [ch04-11](https://github.com/hugoinaction/hugoinaction/tree/ch04-11)              |    4.7      | https://ch04-11.hugoinaction.com |
-
+| *Chapter 5*           | [Resources](https://github.com/hugoinaction/hugoinaction/archive/ch05-resources.zip) ||
+| [ch05-1](https://github.com/hugoinaction/hugoinaction/tree/ch05-1)                |    5.1.1    | https://ch05-1.hugoinaction.com |
+| [ch05-2](https://github.com/hugoinaction/hugoinaction/tree/ch05-2)                |    5.1.2    | https://ch05-2.hugoinaction.com |
+| [ch05-3](https://github.com/hugoinaction/hugoinaction/tree/ch05-3)                |    5.1.3    | https://ch05-3.hugoinaction.com |
+| [ch05-4](https://github.com/hugoinaction/hugoinaction/tree/ch05-4)                |    5.1.4    | https://ch05-4.hugoinaction.com |
+| [ch05-5](https://github.com/hugoinaction/hugoinaction/tree/ch05-5)                |    5.1.5    | https://ch05-5.hugoinaction.com |
+| [ch05-6](https://github.com/hugoinaction/hugoinaction/tree/ch05-6)                |    5.1.6    | https://ch05-6.hugoinaction.com |
+| [ch05-7](https://github.com/hugoinaction/hugoinaction/tree/ch05-7)                |    5.1.7    | https://ch05-7.hugoinaction.com |
+| [ch05-8](https://github.com/hugoinaction/hugoinaction/tree/ch05-8)                |    5.1.8    | https://ch05-8.hugoinaction.com |
+| [ch05-9](https://github.com/hugoinaction/hugoinaction/tree/ch05-9)                |    5.2.1    | https://ch05-9.hugoinaction.com |
+| [ch05-10](https://github.com/hugoinaction/hugoinaction/tree/ch05-10)              |    5.2.2    | https://ch05-10.hugoinaction.com |
+| [ch05-11](https://github.com/hugoinaction/hugoinaction/tree/ch05-11)              |    5.3.1    | https://ch05-11.hugoinaction.com |
+| [ch05-12](https://github.com/hugoinaction/hugoinaction/tree/ch05-12)              |    5.3.2    | https://ch05-12.hugoinaction.com |
+| [ch05-13](https://github.com/hugoinaction/hugoinaction/tree/ch05-13)              |    5.4.1    | https://ch05-13.hugoinaction.com |
+| [ch05-14](https://github.com/hugoinaction/hugoinaction/tree/ch05-14)              |    5.4.2    | https://ch05-14.hugoinaction.com |
+| [ch05-15](https://github.com/hugoinaction/hugoinaction/tree/ch05-15)              |    5.4.3    | https://ch05-15.hugoinaction.com |
 
 Hugo In Action Website
 ---------------------
