@@ -4,3 +4,6 @@ title: Acme Corporation                       # Name of the website
 publishDir: docs                              # Output folder
 theme: github.com/hugoinaction/Eclectic       # Name of the theme
 enableEmoji: true                             # Enable Emojis
+markup:                                       # Markup Options
+  highlight:                                  # Code highlighting defaults
+    lineNos: true                             # Enable line numbers
