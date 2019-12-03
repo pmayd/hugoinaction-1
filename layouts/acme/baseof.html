@@ -11,7 +11,12 @@
 
 <body>
   {{block "body" .}}
-
+    <section>
+      <main>
+        {{with .Page.Title}}<h1>{{.}}</h1>{{end}}
+        {{.Content}}
+      </main>
+    <section>
   {{end}}
 </body>
 
