@@ -4,6 +4,7 @@ menu:
     name: Terms of use
     identifier: terms
     weight: -3
+type: acme
 ---
 
 Terms of Use
