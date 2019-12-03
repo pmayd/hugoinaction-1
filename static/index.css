@@ -23,6 +23,10 @@ section {
   box-sizing: border-box;
 }
 
+.page section {
+  text-align: justify;
+}
+
 body * {
   font-weight: lighter;
   text-shadow: 2px 2px 2px #ddd;
