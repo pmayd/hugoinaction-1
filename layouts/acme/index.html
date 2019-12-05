@@ -69,6 +69,10 @@
   </article>
 </section>
 <footer>
+  {{ range $.Site.Menus.footer }}
+  <a href="{{.URL}}">{{.Name | humanize}}</a>
+  {{ end }}
+  <br>
   {{.Param "copyright" | markdownify}}
 </footer>
 {{ end }}
