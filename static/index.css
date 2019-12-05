@@ -37,9 +37,17 @@ footer {
   color: white;
   text-align: center;
   text-shadow: none;
-  padding: 40px 0;
+  display: table-cell;
+  vertical-align: middle;
+  width: 100vw;
   height: 100px;
   box-sizing: border-box;
+}
+
+footer a {
+  color: #DDD;
+  font-size: small;
+  text-shadow: none;
 }
 
 main,
