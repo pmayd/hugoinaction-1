@@ -18,18 +18,14 @@ author:                                       # Information about the website au
 
 menu:                                         # Menu placement
   main:                                       #    - Name of the menu
-    - identifier: home                        #       - Identifier
-      name: Home                              #       - Display name (theme specific key)
-      url: /                                  #       - Target URL
+    - identifier: about                       #       - Identifier
+      name: About                             #       - Display name (theme specific key)
+      url: /about                             #       - Target URL
       weight: 1                               #       - Sorting order
-    - identifier: about
-      name: About
-      url: /about
-      weight: 2
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 3
+      weight: 2
 params:                                       # Theme specific parameters
   color: "#71B180"
   copyright: "Copyright &copy; 2020 Acme Corporation. All Rights Reserved."
