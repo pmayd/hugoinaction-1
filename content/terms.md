@@ -1,12 +1,10 @@
 ---
 menu:
-  home:
-    name: Terms of use
-    identifier: terms
-    weight: -3
+  footer:
+    name: Terms of Use
+    weight: 2
 type: acme
 ---
-
 Terms of Use
 ============
 ## Terms
