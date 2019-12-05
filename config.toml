@@ -15,22 +15,16 @@ hours = "**Mon-Fri:** 9:00AM - 6:00PM, ET"
 [menu]                                                # Menu placement
 
   [[menu.main]]                                       #    - Name of the menu
-  identifier = "home"                                 #        - Identifier
-  name = "Home"                                       #        - Display name (theme specific key)
-  url = "/"                                           #        - Target URL
+  identifier = "about"                                #        - Identifier
+  name = "About"                                      #        - Display name (theme specific key)
+  url = "/about"                                      #        - Target URL
   weight = 1.0                                        #        - Sorting order
-
-  [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about"
-  weight = 2.0
 
   [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact"
-  weight = 3.0
+  weight = 2.0
 
 [params]                                              # Theme specific parameters
 color = "#71B180"
