@@ -69,6 +69,12 @@ footer a {
   text-shadow: none;
 }
 
+
+footer ul {
+  margin: 0;
+  padding: 0;
+}
+
 main,
 article {
   background: rgba(255, 255, 255, 0.6);
