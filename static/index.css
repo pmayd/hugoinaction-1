@@ -24,11 +24,11 @@ nav li {
   display: inline-block;
 }
 
-section:first-of-type {
+section:first-child {
   min-height: 100vh;
 }
 
-section:first-of-type:last-of-type {
+section:first-child:last-of-type {
   min-height: calc(100vh - 100px);
 }
 
