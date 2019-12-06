@@ -6,11 +6,29 @@ body {
   background-size: cover;
 }
 
-section:first-child {
+header {
+  margin: 0 auto;
+  font-size: larger;
+  border-bottom: 1px solid rgba(113, 177, 128, 0.5);
+}
+
+header nav {
+  float: right;
+}
+
+nav {
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+}
+
+section:first-of-type {
   min-height: 100vh;
 }
 
-section:first-child:last-of-type {
+section:first-of-type:last-of-type {
   min-height: calc(100vh - 100px);
 }
 
@@ -21,6 +39,7 @@ section {
   justify-content: center;
   padding: 40px;
   box-sizing: border-box;
+  width: 100vw;
 }
 
 .page section {
@@ -73,6 +92,7 @@ a {
   padding: 10px;
   white-space: nowrap;
   display: inline-block;
+  vertical-align: middle;
 }
 
 a:hover {
@@ -136,6 +156,10 @@ details summary::-webkit-details-marker {
   article {
     margin: 0 10px 0 10px;
   }
+
+  header {
+    padding: 0 10px;
+  }
 }
 
 @media only screen and (min-width : 480px) {
@@ -143,6 +167,10 @@ details summary::-webkit-details-marker {
   main,
   article {
     margin: 0 30px 0 30px;
+  }
+
+  header {
+    padding: 0 30px;
   }
 }
 
@@ -152,12 +180,17 @@ details summary::-webkit-details-marker {
   article {
     margin: 0 40px 0 40px;
   }
+
+  header {
+    padding: 0 40px;
+  }
 }
 
 @media only screen and (min-width : 992px) {
 
   main,
-  article {
+  article,
+  header {
     max-width: 800px;
   }
 }
@@ -165,7 +198,8 @@ details summary::-webkit-details-marker {
 @media only screen and (min-width : 1200px) {
 
   main,
-  article {
+  article,
+  header {
     max-width: 1000px;
   }
 }
