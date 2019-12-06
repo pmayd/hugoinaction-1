@@ -12,9 +12,13 @@
         {{with $title}}<h1 class="intro">{{.}}</h1>{{end}}
         {{with .Param "subtitle"}}<h2>{{. | humanize | markdownify}}</h2>{{end}}
         {{.Content}}
-        {{ range $.Site.Menus.main }}
-        <a href="{{.URL}}">{{.Name | humanize}}</a>
-        {{end}}
+        <nav>
+          <ul>
+          {{ range $.Site.Menus.main }}
+            <li><a href="{{.URL}}">{{.Name | humanize}}</a></li>
+          {{end}}
+          </ul>
+        </nav>
       </main>
     </section>
     <section>
@@ -32,9 +36,13 @@
       </article>
     </section>
     <footer>
-      {{ range $.Site.Menus.footer }}
-      <a href="{{.URL}}">{{.Name | humanize}}</a>
-      {{ end }}
+      <nav>
+        <ul>
+        {{ range $.Site.Menus.footer }}
+          <li><a href="{{.URL}}">{{.Name | humanize}}</a></li>
+        {{ end }}
+        </ul>
+      </nav>
       <br>
       {{.Param "copyright" | markdownify}}
     </footer>
