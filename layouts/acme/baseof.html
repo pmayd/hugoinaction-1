@@ -20,9 +20,13 @@
   {{end}}
   {{block "footer" .}}
   <footer>
-    {{ range $.Site.Menus.footer }}
-    <a href="{{.URL}}">{{.Name | humanize}}</a>
-    {{ end }}
+    <nav>
+      <ul>
+        {{ range $.Site.Menus.footer }}
+        <li><a href="{{.URL}}">{{.Name | humanize}}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
     <br>
     {{.Param "copyright" | markdownify}}
   </footer>
