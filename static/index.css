@@ -10,6 +10,8 @@ header {
   margin: 0 auto;
   font-size: larger;
   border-bottom: 1px solid rgba(113, 177, 128, 0.5);
+  position: relative;
+  height: 80px;
 }
 
 header nav {
@@ -24,6 +26,32 @@ nav li {
   display: inline-block;
 }
 
+header nav > ul {
+  height: 80px;
+  margin: 0;
+}
+header nav >ul> li {
+  padding: 0;
+  margin: 0;
+  height: 80px;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+header nav li ul {
+  display: none;
+  position: absolute;
+  top: 80px;
+  margin: 0;
+  padding: 0;
+  background: white;
+  bordeR: 1px solid rgba(113, 177, 128, 0.5);
+}
+
+header nav li:hover ul {
+  display: block;
+
+}
 section:first-child {
   min-height: 100vh;
 }
@@ -112,11 +140,12 @@ a:hover {
 .posts {
   display: flex;
   gap: 30px;
-  margin: 20px;
+  margin: 20px 0;
+  flex-wrap: wrap;
 }
 
 .post {
-  width: 33%;
+  width: 100%;
   box-sizing: border-box;
   padding: 10px;
   border: 1px solid #71B180;
@@ -178,6 +207,10 @@ details summary::-webkit-details-marker {
   header {
     padding: 0 30px;
   }
+
+  .post {
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width : 768px) {
@@ -190,6 +223,10 @@ details summary::-webkit-details-marker {
   header {
     padding: 0 40px;
   }
+
+  .post {
+    width: calc(50% - 15px);
+  }
 }
 
 @media only screen and (min-width : 992px) {
@@ -198,6 +235,10 @@ details summary::-webkit-details-marker {
   article,
   header {
     max-width: 800px;
+  }
+
+  .post {
+    width: calc(33% - 20px);
   }
 }
 
