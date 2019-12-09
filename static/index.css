@@ -9,7 +9,7 @@ body {
 header {
   margin: 0 auto;
   font-size: larger;
-  border-bottom: 1px solid rgba(113, 177, 128, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   position: relative;
   height: 80px;
 }
@@ -26,11 +26,12 @@ nav li {
   display: inline-block;
 }
 
-header nav > ul {
+header nav>ul {
   height: 80px;
   margin: 0;
 }
-header nav >ul> li {
+
+header nav>ul>li {
   padding: 0;
   margin: 0;
   height: 80px;
@@ -45,13 +46,14 @@ header nav li ul {
   margin: 0;
   padding: 0;
   background: white;
-  bordeR: 1px solid rgba(113, 177, 128, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 header nav li:hover ul {
   display: block;
 
 }
+
 section:first-child {
   min-height: 100vh;
 }
