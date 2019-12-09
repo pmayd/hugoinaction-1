@@ -9,7 +9,7 @@ body {
 header {
   margin: 0 auto;
   font-size: larger;
-  border-bottom: 1px solid rgba(113, 177, 128, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   position: relative;
   height: 80px;
 }
@@ -45,7 +45,7 @@ header nav li ul {
   margin: 0;
   padding: 0;
   background: white;
-  bordeR: 1px solid rgba(113, 177, 128, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 header nav li:hover ul {
