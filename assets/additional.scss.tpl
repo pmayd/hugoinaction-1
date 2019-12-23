@@ -10,6 +10,18 @@
 section:first-child {
   flex-wrap: wrap;
   padding: 0;
+  align-items: stretch;
+}
+
+section {
+  overflow-x: hidden;
+}
+
+#TableOfContents {
+  li {
+    display: list-item;
+    list-style-type: upper-roman;
+  }
 }
 
 
