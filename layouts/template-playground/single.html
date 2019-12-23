@@ -103,7 +103,7 @@ Condition is not defined.
 {{ printf "%#v" $.Site }}
 
 <h2>
-  Image Manipulation
+  Image Processing & Manipulation
 </h2>
 {{$original := resources.GetMatch "image/hia.jpg"}}
 <style>
@@ -123,7 +123,6 @@ Condition is not defined.
   <img src="{{$original.RelPermalink}}">
   <figcaption>Original</figcaption>
 </figure>
-</center>
 
 <br>
 <figure>
@@ -158,3 +157,78 @@ Condition is not defined.
 
 <br>
 
+<figure>
+  <img src="{{($original | images.Filter (images.Brightness -40)).RelPermalink}}">
+  <figcaption>Brightness -40</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.ColorBalance 100 200 300)).RelPermalink}}">
+  <figcaption>ColorBalance 100 200 300</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Colorize 200 100 50)).RelPermalink}}">
+  <figcaption>Colorize 200 100 50</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Contrast 30)).RelPermalink}}">
+  <figcaption>Contrast 30</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Gamma 3)).RelPermalink}}">
+  <figcaption>Gamma 3</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.GaussianBlur 80)).RelPermalink}}">
+  <figcaption>GaussianBlur 80</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Grayscale)).RelPermalink}}">
+  <figcaption>Grayscale</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Hue 100)).RelPermalink}}">
+  <figcaption>Hue 100</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Invert)).RelPermalink}}">
+  <figcaption>Invert</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Pixelate 100)).RelPermalink}}">
+  <figcaption>Pixelate 100</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Pixelate 100)).RelPermalink}}">
+  <figcaption>Pixelate 100</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Saturation 80)).RelPermalink}}">
+  <figcaption>Saturation 80</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Sepia 200)).RelPermalink}}">
+  <figcaption>Sepia 200</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.Sigmoid 20 5)).RelPermalink}}">
+  <figcaption>Sigmoid 20 10</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original | images.Filter (images.UnsharpMask 40 1.2 0.5)).RelPermalink}}">
+  <figcaption>UnsharpMask 40 1.2 0.5</figcaption>
+</figure>
+</center>
