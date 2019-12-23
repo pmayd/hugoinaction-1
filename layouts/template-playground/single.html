@@ -101,3 +101,60 @@ Condition is not defined.
 </ul>
 <h2>Debugging</h2>
 {{ printf "%#v" $.Site }}
+
+<h2>
+  Image Manipulation
+</h2>
+{{$original := resources.GetMatch "image/hia.jpg"}}
+<style>
+  img {
+    display: inline;
+    max-width: 200px;
+    border: 1px solid black;
+  }
+</style>
+<style>
+  figure {
+   display: inline-block;
+  }
+</style>
+<center>
+<figure>
+  <img src="{{$original.RelPermalink}}">
+  <figcaption>Original</figcaption>
+</figure>
+</center>
+
+<br>
+<figure>
+  <img src="{{($original.Resize "200x100").RelPermalink}}">
+  <figcaption>Resize</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original.Fit "200x100").RelPermalink}}">
+  <figcaption>Fit</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original.Fill "200x100 top").RelPermalink}}">
+  <figcaption>Fill Top</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original.Fill "200x100 bottom").RelPermalink}}">
+  <figcaption>Fill Bottom</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original.Fill "200x100 center").RelPermalink}}">
+  <figcaption>Fill center</figcaption>
+</figure>
+
+<figure>
+  <img src="{{($original.Fill "200x100 smart").RelPermalink}}">
+  <figcaption>Fill smart</figcaption>
+</figure>
+
+<br>
+
