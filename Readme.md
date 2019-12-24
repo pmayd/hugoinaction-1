@@ -48,6 +48,28 @@ The branches in this repository correspond to the sections of Hugo In Action. Ea
 | [ch05-13](https://github.com/hugoinaction/hugoinaction/tree/ch05-13)              |    5.4.1    | https://ch05-13.hugoinaction.com |
 | [ch05-14](https://github.com/hugoinaction/hugoinaction/tree/ch05-14)              |    5.4.2    | https://ch05-14.hugoinaction.com |
 | [ch05-15](https://github.com/hugoinaction/hugoinaction/tree/ch05-15)              |    5.4.3    | https://ch05-15.hugoinaction.com |
+| *Chapter 6*           | [Resources](https://github.com/hugoinaction/hugoinaction/archive/ch06-resources.zip) ||
+| [ch06-1](https://github.com/hugoinaction/hugoinaction/tree/ch06-1)                |    6.1.1    | https://ch06-1.hugoinaction.com |
+| [ch06-2](https://github.com/hugoinaction/hugoinaction/tree/ch06-2)                |    6.1.2    | https://ch06-2.hugoinaction.com |
+| [ch06-3](https://github.com/hugoinaction/hugoinaction/tree/ch06-3)                |    6.1.4    | https://ch06-3.hugoinaction.com |
+| [ch06-4](https://github.com/hugoinaction/hugoinaction/tree/ch06-4)                |    6.1.4    | https://ch06-4.hugoinaction.com |
+| [ch06-5](https://github.com/hugoinaction/hugoinaction/tree/ch06-5)                |    6.2.1    | https://ch06-5.hugoinaction.com |
+| [ch06-6](https://github.com/hugoinaction/hugoinaction/tree/ch06-6)                |    6.2.2    | https://ch06-6.hugoinaction.com |
+| [ch06-7](https://github.com/hugoinaction/hugoinaction/tree/ch06-7)                |    6.2.3    | https://ch06-7.hugoinaction.com |
+| [ch06-8](https://github.com/hugoinaction/hugoinaction/tree/ch06-8)                |    6.2.4    | https://ch06-8.hugoinaction.com |
+| [ch06-9](https://github.com/hugoinaction/hugoinaction/tree/ch06-9)                |    6.2.4    | https://ch06-9.hugoinaction.com |
+| [ch06-10](https://github.com/hugoinaction/hugoinaction/tree/ch06-10)              |    6.2.4    | https://ch06-10.hugoinaction.com |
+| [ch06-11](https://github.com/hugoinaction/hugoinaction/tree/ch06-11)              |    6.2.5    | https://ch06-11.hugoinaction.com |
+| [ch06-12](https://github.com/hugoinaction/hugoinaction/tree/ch06-12)              |    6.3.1    | https://ch06-12.hugoinaction.com |
+| [ch06-13](https://github.com/hugoinaction/hugoinaction/tree/ch06-13)              |    6.3.1    | https://ch06-13.hugoinaction.com |
+| [ch06-14](https://github.com/hugoinaction/hugoinaction/tree/ch06-14)              |    6.3.1    | https://ch06-14.hugoinaction.com |
+| [ch06-15](https://github.com/hugoinaction/hugoinaction/tree/ch06-15)              |    6.3.1    | https://ch06-15.hugoinaction.com |
+| [ch06-16](https://github.com/hugoinaction/hugoinaction/tree/ch06-16)              |    6.3.2    | https://ch06-16.hugoinaction.com |
+| [ch06-17](https://github.com/hugoinaction/hugoinaction/tree/ch06-17)              |    6.3.2    | https://ch06-17.hugoinaction.com |
+| [ch06-18](https://github.com/hugoinaction/hugoinaction/tree/ch06-18)              |    6.3.2    | https://ch06-18.hugoinaction.com |
+| [ch06-19](https://github.com/hugoinaction/hugoinaction/tree/ch06-19)              |    6.3.2    | https://ch06-19.hugoinaction.com |
+| [ch06-20](https://github.com/hugoinaction/hugoinaction/tree/ch06-20)              |    6.4.0    | https://ch06-20.hugoinaction.com |
+| [ch06-21](https://github.com/hugoinaction/hugoinaction/tree/ch06-21)              |    6.4.0    | https://ch06-21.hugoinaction.com |
 
 Hugo In Action Website
 ---------------------
