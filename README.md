@@ -1,9 +1,9 @@
 Hugo In Action
 ===============
 
-This code corresponds to section 5.4.3 of Hugo in Action.
+This code corresponds to section 6.3.1 of Hugo in Action.
 
-You can see this live at https://ch05-15.hugoinaction.com.
+You can see this live at https://ch06-13.hugoinaction.com.
 
 Changes for hosting
 --------------------
